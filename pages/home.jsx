@@ -3,7 +3,8 @@ import View from "rax-view";
 import Text from "rax-text";
 import Image from "rax-image";
 import Header from "../components/Header";
-import WaterFall from "../components/WaterFall";
+// import WaterFall from "../components/WaterFall";
+import WaterFall from "rax-waterfall";
 import "./home.css";
 
 const logo = "http://gw.alicdn.com/tfs/TB11oXVXRGE3KVjSZFhXXckaFXa-149-148.png";

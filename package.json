@@ -13,10 +13,11 @@
     "driver-universal": "^1.0.0",
     "history": "^4.9.0",
     "rax": "^1.0.0",
-    "rax-view": "next",
-    "rax-text": "next",
-    "rax-image": "next",
-    "rax-use-router": "^2.0.0"
+    "rax-image": "^1.1.2",
+    "rax-text": "^1.0.2",
+    "rax-use-router": "^2.0.0",
+    "rax-view": "^1.1.0",
+    "rax-waterfall": "^1.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
